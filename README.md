@@ -1,2 +1,2 @@
 # FlappyBird
-Remake of Flappy Bird (originally created by Dong Nguyen)
+(originally created by Dong Nguyen)
